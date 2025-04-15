@@ -1,4 +1,4 @@
-# Weather App 🌦
+# Abbhishek Pathak's Weather App 🌦
 
 This is a full-stack weather app built using Node.js and SQLite for the PMA AI Engineer Intern Technical Assessment.
 
