@@ -14,6 +14,7 @@ This is a full-stack weather app built using Node.js and SQLite for the PMA AI E
 
 1. Clone the repo
 2. Install dependencies
+3. set up .env file for your system by entering openweathermap api key and port.
 
 ```bash
 npm install
